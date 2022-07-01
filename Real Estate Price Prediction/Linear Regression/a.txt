@@ -1,3 +1,5 @@
 Linear Regression : https://colab.research.google.com/drive/16dC-rNQuK1Nn5TM5i_zE9pLBuynXFcpW?authuser=1#scrollTo=4U3BOYuhMvg_
 
 Project : https://colab.research.google.com/drive/1MOBQNZYhJz9xKJLTbRr56tqXn98L3OPA?authuser=1#scrollTo=GbdjZz828Ly9
+
+Youtube : https://www.youtube.com/watch?v=zUq8gLr_Eaw&t=18887s&ab_channel=DevTown

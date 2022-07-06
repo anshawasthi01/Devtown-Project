@@ -1,11 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Heading from "./Heading";
+import App from "./components/App";
 
-ReactDOM.render(
-  <div>
-    <Heading></Heading>
-    <p>I'm Ansh Awasthi</p>
-  </div>,
-  document.getElementById("root")
-);
+ReactDOM.render(<App />, document.getElementById("root"));
